@@ -1,0 +1,39 @@
+/* table,tr,td{
+    border: 1px solid cadetblue;
+    border-collapse: collapse;
+   }
+   .yellow{
+    color: yellow;   
+   }
+   .blue{
+       color: blue;
+   }
+   
+ #intro{
+   background-color: aqua;
+ }
+ /* #vijay{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: red;
+ } */
+ /* button:hover{
+   color:red;
+ }    
+      */ 
+      
+.box{
+    height: 80px;
+    width: 300px;
+    border: 1px solid black
+    ;
+  
+}
+#org{
+    background-color: orange;
+}
+#white{
+    background-color: white;
+}
+#green{
+    background-color: green;
+}
